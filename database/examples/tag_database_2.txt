@@ -1,0 +1,7 @@
+F:\HOURS
+hora
+F:\THE DAY
+dia
+F:
+root
+_EOF
